@@ -4,7 +4,7 @@ I'm Pranav, a full stack developer from Delhi, India.
 
 I enjoy turning ideas into working applications and solving problems through code. I'm particularly interested in how different parts of a software product come together, from writing efficient logic to building interfaces and connecting them with the backend.
 
-My development journey currently revolves around C++, Data Structures & Algorithms, and Full-Stack Development. I work with technologies such as C++, Java, Python, HTML, CSS, JavaScript, Git and GitHub, while building my way toward React, Node.js, Express, MongoDB and SQL.
+My development journey currently revolves around C++, Data Structures & Algorithms, and Full-Stack Development. I work with technologies such as C++, Python, HTML, CSS, JavaScript, Git and GitHub, while building my way toward React, Node.js, Express, MongoDB and SQL.
 
 I prefer learning by actually building things rather than only following tutorials. My projects include programming practice, frontend work, hackathon ideas and development projects where I can turn concepts into something functional.
 
